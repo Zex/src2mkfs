@@ -1,0 +1,3 @@
+rootdir=$1
+imgtarget=$2
+mkyaffs2image-twins/usr/sbin/mkyaffs2image $rootdir $imgtarget
