@@ -1,0 +1,2 @@
+sudo mkfs.cramfs rootfs rootfs.cramfs -n rootfs
+du -h rootfs.cramfs
