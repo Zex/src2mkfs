@@ -1,0 +1,2 @@
+#mkfs.jffs2 -r rootfs -o rootfs.jffs2 -p -l -n -c 0x8000 -m size
+mkfs.jffs2 -r rootfs -o rootfs.jffs2 -e 128KiB
